@@ -1,4 +1,4 @@
-<h1 align="center">Hey There 😊 I'm, I'm Teku Syam Kumar</h1>
+<h1 align="center">Hey There 😊 I'm, Teku Syam Kumar</h1>
 <h3 align="center">A passionate Computer Science student specializing in Artificial Intelligence, Machine Learning, and Software Development. I love building intelligent systems, experimenting with algorithms, and working on real-world projects that combine creativity with technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-syam-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="t-syam-kumar" /> </p>
