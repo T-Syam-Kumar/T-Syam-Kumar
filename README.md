@@ -1,6 +1,6 @@
 <h1 align="center">Hey There 😊 I'm, Teku Syam Kumar</h1>
 <h3 align="center">🎓 3rd Year B.Tech Student | Artificial Intelligence & Machine Learning 💻 Python Developer | Problem Solver | AI Enthusiast I am passionate about building intelligent systems and scalable software solutions. My interests lie in Artificial Intelligence, Machine Learning, Data Science, and Backend Development. I enjoy solving real-world problems using Python and continuously improving my coding skills through competitive programming and project development. I have hands-on experience in: 🐍 Python Programming 🤖 Machine Learning & Deep Learning 📊 Data Structures & Algorithms 🌐 Django & Backend Development 🧠 Problem Solving (LeetCode, GFG)</h3>
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-syam-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="t-syam-kumar" /> </p>
 
 - 📫 How to reach me **tsyamkumar143@gmail.com**
