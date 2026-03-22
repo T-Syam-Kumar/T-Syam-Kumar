@@ -1,7 +1,7 @@
 <h1 align="center">Hey There 😊 I'm, Teku Syam Kumar</h1>
 <h3 align="center">🎓 B.Tech Student (AI & ML) | 💻 Python Developer | 🤖 AI Enthusiast
 Passionate about building intelligent systems and scalable backend solutions. Skilled in Python, Machine Learning, DSA, and Django, with a strong focus on solving real-world problems.</h3>
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-syam-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="t-syam-kumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-syam-kumar" alt="t-syam-kumar" /></a> </p>
