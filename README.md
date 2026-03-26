@@ -24,4 +24,4 @@ Passionate about building intelligent systems and scalable backend solutions. Sk
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-syam-kumar&show_icons=true&locale=en" alt="t-syam-kumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-syam-kumar&" alt="t-syam-kumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-syam-kumar&" alt="t-syam-kumar" /></p>.
