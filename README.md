@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 A passionate Computer Science student specializing in Artificial Intelligence, Machine Learning, and Software Development. I love building intelligent systems, experimenting with algorithms, and working on real-world projects that combine creativity with technology.
 
 
