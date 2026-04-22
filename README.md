@@ -4,9 +4,9 @@ A passionate Computer Science student specializing in Artificial Intelligence, M
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syam-kumar-t-a72508280)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsyamkumar143@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/TSyamKumar/))
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/23a31a42j0/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/23A31A42J0)
 
 ## 📄 Resume:
 [![Resume](https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-resume-link.com)
