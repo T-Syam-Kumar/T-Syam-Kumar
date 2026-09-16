@@ -8,8 +8,6 @@ A passionate Computer Science student specializing in Artificial Intelligence, M
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/23a31a42j0/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/23A31A42J0)
 
-## 📄 Resume:
-[![Resume](https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1thX24PWHw-NDzPQaPYTgO_DzClcunAH-/view)
 
 ## 📜 Certificates:
 [![Certificates](https://img.shields.io/badge/Certificates-View%20Now-purple?style=for-the-badge&logo=googlescholar&logoColor=white)](https://drive.google.com/drive/folders/13Gmk-KBVjqKQd_s3BCVg8GzQjWUQkend)
